@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Ranjan Kumar\\Desktop\\Embedded_test-master\\Embedded_test-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Ranjan Kumar\\.android\\build-cache\\bea0564f3757d7c45c0c00e4ab7dd3bc3ae4127c\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
